@@ -10,9 +10,9 @@ function writeCards(n, m) {
 }
 
 function countDown(w) {
-    let countDwn = n;
-    let setCounter = n;
-    while (n >= 0) {
+    // let countDwn = n;
+    // let setCounter = n;
+    while (w >= 0) {
         console.log(w--);
         //     if(setCounter==n){
         //         console.log(`Expected countDown(${setCounter}) to log ${n--} first `);
